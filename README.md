@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0007-reverse-integer) |
+| [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
