@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0088-merge-sorted-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0937-online-stock-span) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
