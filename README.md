@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0088-merge-sorted-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -31,6 +32,7 @@
 | [0015-3sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
