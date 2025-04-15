@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0088-merge-sorted-array) |
+| [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
@@ -22,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0037-sudoku-solver) |
+| [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -55,11 +57,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0937-online-stock-span) |
 ## String
 |  |
