@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
@@ -81,6 +82,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
