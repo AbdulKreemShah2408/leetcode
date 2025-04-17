@@ -31,6 +31,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -106,8 +107,10 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
