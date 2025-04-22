@@ -34,6 +34,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
@@ -140,4 +141,12 @@
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2249-count-the-hidden-sequences) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
