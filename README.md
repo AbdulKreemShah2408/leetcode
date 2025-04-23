@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
+| [1500-count-largest-group](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1500-count-largest-group) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -40,6 +41,7 @@
 | [0342-power-of-four](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
+| [1500-count-largest-group](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1500-count-largest-group) |
 ## Two Pointers
 |  |
 | ------- |
