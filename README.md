@@ -17,6 +17,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0134-gas-station) |
+| [0217-contains-duplicate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0503-next-greater-element-ii) |
 | [2249-count-the-hidden-sequences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -28,6 +29,7 @@
 | [0001-two-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [1500-count-largest-group](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1500-count-largest-group) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -60,6 +62,7 @@
 | [0016-3sum-closest](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
