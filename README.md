@@ -38,6 +38,7 @@
 | [0217-contains-duplicate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [1500-count-largest-group](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1500-count-largest-group) |
@@ -76,6 +77,7 @@
 | [0088-merge-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -107,6 +109,7 @@
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
 | [3811-reverse-degree-of-a-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
