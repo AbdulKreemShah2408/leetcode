@@ -26,6 +26,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1115-valid-boomerang](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1115-valid-boomerang) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -82,6 +83,7 @@
 | [0242-valid-anagram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0134-gas-station) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Design
 |  |
 | ------- |
@@ -168,6 +171,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -186,6 +190,7 @@
 | [0069-sqrtx](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0367-valid-perfect-square) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Linked List
 |  |
 | ------- |
@@ -219,4 +224,8 @@
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1115-valid-boomerang) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
