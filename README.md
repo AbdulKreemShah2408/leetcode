@@ -71,6 +71,7 @@
 | [0042-trapping-rain-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
 ## Stack
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0205-isomorphic-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
+| [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
 | [3811-reverse-degree-of-a-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
 |  |
