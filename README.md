@@ -13,6 +13,7 @@
 | [0037-sudoku-solver](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0088-merge-sorted-array) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0217-contains-duplicate) |
@@ -79,6 +81,7 @@
 | [0015-3sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0229-majority-element-ii) |
@@ -114,6 +117,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0242-valid-anagram) |
