@@ -283,6 +283,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -304,6 +305,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -339,6 +341,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -369,4 +372,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
