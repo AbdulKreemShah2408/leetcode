@@ -40,6 +40,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2249-count-the-hidden-sequences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2551-apply-operations-to-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3194-find-words-containing-character](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3194-find-words-containing-character) |
@@ -116,6 +117,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -251,6 +253,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0367-valid-perfect-square) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
