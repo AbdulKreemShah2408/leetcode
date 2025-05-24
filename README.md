@@ -42,6 +42,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2551-apply-operations-to-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3194-find-words-containing-character](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -159,6 +160,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
+| [3194-find-words-containing-character](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3194-find-words-containing-character) |
 | [3811-reverse-degree-of-a-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
 |  |
