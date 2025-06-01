@@ -156,6 +156,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0205-isomorphic-strings) |
