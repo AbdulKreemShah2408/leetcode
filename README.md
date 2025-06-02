@@ -263,6 +263,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Linked List
@@ -402,4 +403,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
