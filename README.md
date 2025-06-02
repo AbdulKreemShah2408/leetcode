@@ -214,6 +214,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0342-power-of-four) |
@@ -256,6 +257,7 @@
 | [0069-sqrtx](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -294,6 +296,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0257-binary-tree-paths) |
@@ -353,6 +356,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0257-binary-tree-paths) |
