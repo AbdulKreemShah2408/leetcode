@@ -76,6 +76,7 @@
 | [0383-ransom-note](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
+| [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -179,6 +180,7 @@
 | [0383-ransom-note](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3194-find-words-containing-character) |
