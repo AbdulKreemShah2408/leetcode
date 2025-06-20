@@ -41,6 +41,7 @@
 | [1115-valid-boomerang](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1115-valid-boomerang) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1580-shuffle-the-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1833-find-the-highest-altitude) |
