@@ -1,25 +1,21 @@
 class Solution {
 public:
     vector<string> fizzBuzz(int n) {
-    vector<string>arr(n);
-    arr[0]="1";
-    for(int i=1;i<=n;i++){
-        if(i%3==0 && i%5==0){
-            arr[i-1]="FizzBuzz";
+        vector<string>ans;
+        for(int i=1;i<=n;i++){
+            if( i%3==0 && i%5==0){
+                ans.push_back("FizzBuzz");
+            }
+            else if(i%3==0){
+                ans.push_back("Fizz");
+            }
+            else if(i%5==0){
+                ans.push_back("Buzz");
+            }
+            else{
+                ans.push_back(to_string(i));
+            }
         }
-        else if(i%3==0){
-            arr[i-1]="Fizz";
-        }
-       else if(i%5==0){
-            arr[i-1]="Buzz";
-        }
-        else{
-            arr[i-1]=to_string(i);
-        }
-
-
-    }
-    return arr;
-
+        return ans;
     }
 };
