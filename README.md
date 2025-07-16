@@ -38,6 +38,7 @@
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -164,6 +165,7 @@
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -172,6 +174,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0937-online-stock-span) |
 ## String
 |  |
