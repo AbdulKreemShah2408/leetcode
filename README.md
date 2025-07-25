@@ -84,6 +84,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -199,6 +200,7 @@
 | [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3194-find-words-containing-character) |
 | [3811-reverse-degree-of-a-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3811-reverse-degree-of-a-string) |
@@ -319,6 +321,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
 | ------- |
@@ -326,6 +329,7 @@
 | [0383-ransom-note](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Tree
 |  |
 | ------- |
