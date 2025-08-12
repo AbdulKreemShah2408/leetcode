@@ -13,6 +13,7 @@
 | [0037-sudoku-solver](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -240,6 +241,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
