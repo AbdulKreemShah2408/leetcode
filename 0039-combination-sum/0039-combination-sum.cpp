@@ -1,29 +1,22 @@
 class Solution {
 public:
-  set<vector<int>>s;
-    void getAllComb(vector<int>& arr,int idx, int tar,vector<vector<int>> &   ans,  vector<int> &combin){
-        if(idx==arr.size() || tar<0){
-            return;
-        }
-        if(tar==0){
-            if(s.find(combin) ==s.end()){
-           ans.push_back(combin);
-           s.insert(combin);
-            }
-         
-            return;
-        }
-       combin.push_back(arr[idx]);
-       getAllComb(arr,idx+1,tar-arr[idx],ans,combin);
-       getAllComb(arr,idx,tar-arr[idx],ans,combin);
-        combin.pop_back();
-        getAllComb(arr,idx+1,tar,ans,combin);
-
+   void solve(vector<vector<int>>& ans,vector<int>& cand,int target,int sum,vector<int>& temp,int index){
+    if(sum==target){
+        ans.push_back(temp);
+        return ;
     }
-    vector<vector<int>> combinationSum(vector<int>& arr, int target) {
-    vector<vector<int>> ans;
-    vector<int>combin;
-    getAllComb(arr,0,target,ans,combin);
-    return ans;
+    if(sum>target || index>=cand.size()){
+        return ;
+    }
+    temp.push_back(cand[index]);
+    solve(ans,cand,target,sum+cand[index],temp,index);
+    temp.pop_back();
+    solve(ans,cand,target,sum,temp,index+1);
+   }
+    vector<vector<int>> combinationSum(vector<int>& candidates , int target) {
+     vector<vector<int>>ans;
+     vector<int>temp;
+     solve(ans,candidates,target,0,temp,0);
+     return ans;
     }
 };
