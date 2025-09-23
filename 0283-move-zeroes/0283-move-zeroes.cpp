@@ -7,12 +7,10 @@ public:
                 nums[j]=nums[i];
                 j++;
             }
-
         }
         while(j<nums.size()){
             nums[j]=0;
             j++;
         }
-        
     }
 };
