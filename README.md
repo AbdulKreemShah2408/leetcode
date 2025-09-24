@@ -28,6 +28,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0342-power-of-four) |
@@ -123,6 +125,7 @@
 | [0088-merge-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0344-reverse-string) |
