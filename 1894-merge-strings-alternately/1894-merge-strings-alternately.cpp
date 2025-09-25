@@ -8,7 +8,7 @@ public:
         ans.push_back(word2[right]);
         left++;
         right++;
-      } 
+      }
       while(left<word1.size()){
         ans.push_back(word1[left]);
         left++;
