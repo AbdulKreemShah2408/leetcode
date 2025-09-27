@@ -214,6 +214,7 @@
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -463,6 +464,7 @@
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
