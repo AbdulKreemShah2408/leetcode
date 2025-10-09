@@ -164,6 +164,7 @@
 | [0941-sort-array-by-parity](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1880-largest-merge-of-two-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -259,6 +260,7 @@
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1472-increasing-decreasing-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1472-increasing-decreasing-string) |
+| [1880-largest-merge-of-two-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -285,6 +287,7 @@
 | [0409-longest-palindrome](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1880-largest-merge-of-two-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Design
 |  |
