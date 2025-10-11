@@ -210,6 +210,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -240,6 +241,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
