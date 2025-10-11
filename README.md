@@ -160,6 +160,7 @@
 | [0392-is-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -225,6 +226,7 @@
 | [0503-next-greater-element-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0937-online-stock-span) |
 | [2128-reverse-prefix-of-word](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -260,6 +262,7 @@
 | [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0874-backspace-string-compare) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1472-increasing-decreasing-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1880-largest-merge-of-two-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1880-largest-merge-of-two-strings) |
@@ -276,6 +279,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
