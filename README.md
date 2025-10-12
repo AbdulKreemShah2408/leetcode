@@ -314,10 +314,12 @@
 | [0225-implement-stack-using-queues](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Backtracking
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 | [0225-implement-stack-using-queues](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0969-number-of-recent-calls](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Prefix Sum
