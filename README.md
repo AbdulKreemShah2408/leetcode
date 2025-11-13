@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0040-combination-sum-ii) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -338,6 +340,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
