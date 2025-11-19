@@ -371,6 +371,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -433,6 +434,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0138-copy-list-with-random-pointer) |
