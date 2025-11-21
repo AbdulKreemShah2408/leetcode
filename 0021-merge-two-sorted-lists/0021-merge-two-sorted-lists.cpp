@@ -14,8 +14,6 @@ public:
        
         if (!list1) return list2;
         if (!list2) return list1;
-
-        // Initialize the dummy node to simplify merging
         ListNode* dummy = new ListNode(0);
         ListNode* current = dummy;
         while (list1 && list2) {
