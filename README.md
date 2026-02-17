@@ -658,6 +658,7 @@
 | [0133-clone-graph](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0210-course-schedule-ii) |
+| [1791-find-center-of-star-graph](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |
