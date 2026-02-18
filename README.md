@@ -48,6 +48,7 @@
 | [0485-max-consecutive-ones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
@@ -231,6 +232,7 @@
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1013-fibonacci-number) |
@@ -376,6 +378,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0994-rotting-oranges) |
@@ -566,6 +569,7 @@
 | [0210-course-schedule-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
