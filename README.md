@@ -104,6 +104,7 @@
 | [0037-sudoku-solver](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -284,6 +285,7 @@
 | [0020-valid-parentheses](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0242-valid-anagram) |
@@ -571,6 +573,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0200-number-of-islands) |
