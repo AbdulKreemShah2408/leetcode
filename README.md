@@ -21,6 +21,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0090-subsets-ii) |
@@ -287,6 +288,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -375,6 +377,7 @@
 | [0046-permutations](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0257-binary-tree-paths) |
@@ -384,6 +387,7 @@
 | [0036-valid-sudoku](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -537,6 +541,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0100-same-tree) |
