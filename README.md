@@ -116,6 +116,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0229-majority-element-ii) |
@@ -300,6 +301,7 @@
 | [0127-word-ladder](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0344-reverse-string) |
@@ -364,6 +366,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -726,4 +729,8 @@
 | [0207-course-schedule](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
