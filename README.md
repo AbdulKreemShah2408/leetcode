@@ -59,6 +59,7 @@
 | [0792-binary-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0853-car-fleet) |
 | [0860-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-design-circular-queue) |
+| [0875-koko-eating-bananas](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0941-valid-mountain-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -492,6 +493,7 @@
 | [0367-valid-perfect-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0875-koko-eating-bananas) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Linked List
