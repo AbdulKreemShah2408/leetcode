@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0016-3sum-closest) |
@@ -447,6 +448,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0169-majority-element) |
@@ -484,6 +486,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
