@@ -51,6 +51,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -234,6 +235,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0853-car-fleet](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0853-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -254,6 +256,7 @@
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
@@ -368,6 +371,7 @@
 | [0011-container-with-most-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0649-dota2-senate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
