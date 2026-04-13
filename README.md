@@ -19,6 +19,7 @@
 | [0046-permutations](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0078-subsets) |
