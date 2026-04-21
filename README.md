@@ -120,6 +120,7 @@
 | [0133-clone-graph](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0205-isomorphic-strings) |
@@ -387,6 +388,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -534,6 +536,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -793,4 +796,8 @@
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
