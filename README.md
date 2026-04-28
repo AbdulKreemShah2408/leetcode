@@ -642,6 +642,7 @@
 | [0684-redundant-connection](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1020-number-of-enclaves) |
@@ -672,6 +673,7 @@
 | [0684-redundant-connection](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0994-rotting-oranges) |
@@ -729,6 +731,7 @@
 | [0295-find-median-from-data-stream](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1046-last-stone-weight) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -790,6 +793,7 @@
 | [0210-course-schedule-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1791-find-center-of-star-graph](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1791-find-center-of-star-graph) |
@@ -817,4 +821,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
