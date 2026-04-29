@@ -83,6 +83,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1580-shuffle-the-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1580-shuffle-the-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1603-running-sum-of-1d-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -790,6 +791,7 @@
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
@@ -802,6 +804,7 @@
 | [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
@@ -835,4 +838,8 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
