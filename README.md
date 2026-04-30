@@ -62,6 +62,7 @@
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0853-car-fleet) |
 | [0860-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-design-circular-queue) |
@@ -442,6 +443,7 @@
 | [0542-01-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1020-number-of-enclaves) |
 | [2596-check-knight-tour-configuration](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -526,6 +528,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -648,6 +651,7 @@
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1020-number-of-enclaves) |
@@ -679,6 +683,7 @@
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0994-rotting-oranges) |
@@ -738,6 +743,7 @@
 | [0355-design-twitter](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1046-last-stone-weight) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -789,6 +795,7 @@
 | [0547-number-of-provinces](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
