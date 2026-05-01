@@ -167,6 +167,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0189-rotate-array) |
@@ -318,6 +319,7 @@
 | [0006-zigzag-conversion](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0125-valid-palindrome) |
@@ -366,6 +368,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0874-backspace-string-compare) |
