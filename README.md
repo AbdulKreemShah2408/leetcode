@@ -347,6 +347,7 @@
 | [0649-dota2-senate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0874-backspace-string-compare) |
@@ -763,6 +764,7 @@
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
