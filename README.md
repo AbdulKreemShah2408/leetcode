@@ -20,6 +20,7 @@
 | [0048-rotate-image](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -373,6 +374,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0874-backspace-string-compare) |
@@ -441,6 +443,7 @@
 | [0036-valid-sudoku](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0130-surrounded-regions) |
