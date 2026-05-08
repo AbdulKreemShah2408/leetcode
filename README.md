@@ -115,6 +115,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3660-jump-game-ix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3660-jump-game-ix) |
 ## Hash Table
@@ -171,6 +172,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
@@ -197,6 +199,7 @@
 | [1635-number-of-good-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -724,6 +727,7 @@
 | [1020-number-of-enclaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1020-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
 | ------- |
@@ -887,4 +891,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
