@@ -158,6 +158,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
+| [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0846-hand-of-straights) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -233,6 +234,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -374,6 +376,7 @@
 | [0459-repeated-substring-pattern](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0812-rotate-string) |
@@ -424,6 +427,7 @@
 | [0435-non-overlapping-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0649-dota2-senate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0846-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
