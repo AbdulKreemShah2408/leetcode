@@ -112,6 +112,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -417,6 +418,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2551-apply-operations-to-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3811-reverse-degree-of-a-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
