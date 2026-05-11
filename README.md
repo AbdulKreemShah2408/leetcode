@@ -190,6 +190,7 @@
 | [0043-multiply-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0231-power-of-two) |
@@ -292,6 +293,7 @@
 | [0045-jump-game-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -841,6 +843,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1013-fibonacci-number) |
 ## Quickselect
 |  |
