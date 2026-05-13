@@ -48,6 +48,7 @@
 | [0198-house-robber](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -308,6 +309,7 @@
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0435-non-overlapping-intervals) |
