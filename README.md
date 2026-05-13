@@ -96,6 +96,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -173,6 +174,7 @@
 | [1472-increasing-decreasing-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1500-count-largest-group](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2013-detect-squares](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2013-detect-squares) |
@@ -570,6 +572,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2249-count-the-hidden-sequences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2249-count-the-hidden-sequences) |
 ## Brainteaser
