@@ -41,6 +41,7 @@
 | [0130-surrounded-regions](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0189-rotate-array) |
@@ -304,6 +305,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0435-non-overlapping-intervals) |
