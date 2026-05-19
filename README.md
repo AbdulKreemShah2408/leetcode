@@ -130,6 +130,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2502-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -199,6 +200,7 @@
 | [2013-detect-squares](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2013-detect-squares) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2502-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2540-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -276,6 +278,7 @@
 | [1894-merge-strings-alternately](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
@@ -663,6 +666,7 @@
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
