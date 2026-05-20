@@ -82,6 +82,7 @@
 | [0542-01-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
+| [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -185,6 +186,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
+| [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0846-hand-of-straights) |
@@ -528,6 +530,7 @@
 | [0295-find-median-from-data-stream](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0355-design-twitter) |
+| [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0969-number-of-recent-calls) |
@@ -697,6 +700,7 @@
 | [0234-palindrome-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0355-design-twitter) |
+| [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Sliding Window
@@ -915,6 +919,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
