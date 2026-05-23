@@ -118,6 +118,7 @@
 | [1635-number-of-good-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
