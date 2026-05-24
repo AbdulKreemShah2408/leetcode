@@ -297,6 +297,7 @@
 | [0941-sort-array-by-parity](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1861-rotating-the-box) |
 | [1880-largest-merge-of-two-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -493,6 +494,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1472-increasing-decreasing-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1666-make-the-string-great](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1666-make-the-string-great) |
+| [1768-merge-strings-alternately](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1880-largest-merge-of-two-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
