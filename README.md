@@ -100,6 +100,7 @@
 | [0853-car-fleet](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0853-car-fleet) |
 | [0860-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0941-valid-mountain-array) |
@@ -295,6 +296,7 @@
 | [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0874-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -334,6 +336,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0853-car-fleet) |
+| [0881-boats-to-save-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -544,6 +547,7 @@
 | [0680-valid-palindrome-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0881-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
