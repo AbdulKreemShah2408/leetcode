@@ -397,6 +397,7 @@
 | [1049-last-stone-weight-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3660-jump-game-ix) |
 ## Stack
@@ -497,6 +498,7 @@
 | [1472-increasing-decreasing-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1666-make-the-string-great](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1666-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1871-jump-game-vii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1871-jump-game-vii) |
 | [1880-largest-merge-of-two-strings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -682,6 +684,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1871-jump-game-vii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1871-jump-game-vii) |
 | [2249-count-the-hidden-sequences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2249-count-the-hidden-sequences) |
 ## Brainteaser
 |  |
@@ -748,6 +751,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1871-jump-game-vii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1871-jump-game-vii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
