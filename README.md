@@ -89,6 +89,7 @@
 | [0518-coin-change-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
 | [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
@@ -294,6 +295,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
@@ -336,6 +338,7 @@
 | [0414-third-maximum-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0881-boats-to-save-people) |
@@ -721,6 +724,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -761,6 +765,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1871-jump-game-vii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1871-jump-game-vii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
@@ -950,6 +955,7 @@
 | [0332-reconstruct-itinerary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0355-design-twitter](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
