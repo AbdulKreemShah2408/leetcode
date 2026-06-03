@@ -167,6 +167,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3660-jump-game-ix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3660-jump-game-ix) |
 ## Hash Table
@@ -318,6 +319,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -362,6 +364,7 @@
 | [2784-check-if-array-is-good](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -574,6 +577,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Design
 |  |
 | ------- |
@@ -750,6 +754,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
 |  |
 | ------- |
