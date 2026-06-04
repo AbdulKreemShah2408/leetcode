@@ -80,6 +80,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -403,6 +404,7 @@
 | [0338-counting-bits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0494-target-sum) |
@@ -571,6 +573,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0649-dota2-senate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -722,6 +725,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -757,6 +761,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0792-binary-search) |
