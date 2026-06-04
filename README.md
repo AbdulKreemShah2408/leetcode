@@ -120,6 +120,7 @@
 | [1046-last-stone-weight](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1046-last-stone-weight) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1049-last-stone-weight-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1095-find-in-mountain-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1115-valid-boomerang](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1115-valid-boomerang) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -768,6 +769,7 @@
 | [0875-koko-eating-bananas](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -1033,6 +1035,7 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1095-find-in-mountain-array) |
 ## Memoization
 |  |
 | ------- |
