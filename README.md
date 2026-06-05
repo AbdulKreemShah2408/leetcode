@@ -92,6 +92,7 @@
 | [0518-coin-change-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
@@ -606,6 +607,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0355-design-twitter) |
+| [0622-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-design-circular-queue) |
 | [0895-maximum-frequency-stack](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0895-maximum-frequency-stack) |
@@ -717,6 +719,7 @@
 | [0225-implement-stack-using-queues](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0969-number-of-recent-calls) |
@@ -800,6 +803,7 @@
 | [0234-palindrome-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0355-design-twitter) |
+| [0622-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0908-middle-of-the-linked-list) |
