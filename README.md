@@ -212,6 +212,7 @@
 | [0409-longest-palindrome](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
@@ -607,6 +608,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-design-circular-queue) |
@@ -803,6 +805,7 @@
 | [0234-palindrome-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-design-circular-queue) |
@@ -1112,6 +1115,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0460-lfu-cache) |
 ## Merge Sort
 |  |
 | ------- |
