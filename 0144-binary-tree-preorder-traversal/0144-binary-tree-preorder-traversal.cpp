@@ -10,17 +10,16 @@
  * };
  */
 class Solution {
-public:
+public: 
+   void dfs(TreeNode* root,vector<int>& ans){
+    if(root==NULL) return;
+    ans.push_back(root->val);
+    dfs(root->left,ans);
+    dfs(root->right,ans);
+   }
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int>result;
-        if(root==NULL){
-            return result;
-        }
-        result.push_back(root->val);
-      vector<int>left=  preorderTraversal(root->left);
-        result.insert(result.end(),left.begin(),left.end());
-        vector<int>right=preorderTraversal(root->right);
-        result.insert(result.end(),right.begin(),right.end());
-        return result;
+        vector<int>ans;
+        dfs(root,ans);
+        return ans;
     }
 };
