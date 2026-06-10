@@ -182,6 +182,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3660-jump-game-ix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -611,6 +612,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Design
 |  |
 | ------- |
@@ -1051,6 +1053,7 @@
 | [1046-last-stone-weight](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -1195,4 +1198,8 @@
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
