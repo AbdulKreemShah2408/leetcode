@@ -285,6 +285,7 @@
 | [1635-number-of-good-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -897,6 +898,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -949,6 +951,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
