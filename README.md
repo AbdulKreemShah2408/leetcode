@@ -146,6 +146,7 @@
 | [1834-single-threaded-cpu](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1861-rotating-the-box](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1861-rotating-the-box) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1914-cyclically-rotating-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1929-concatenation-of-array) |
@@ -286,6 +287,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -672,6 +674,7 @@
 | [0212-word-search-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0494-target-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -715,6 +718,7 @@
 | [0342-power-of-four](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0389-find-the-difference) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
@@ -1203,6 +1207,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1218,6 +1223,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Segment Tree
 |  |
