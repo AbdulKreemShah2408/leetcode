@@ -279,6 +279,7 @@
 | [0189-rotate-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0367-valid-perfect-square) |
@@ -429,6 +430,7 @@
 | [0152-maximum-product-subarray](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0312-burst-balloons) |
@@ -1010,6 +1012,7 @@
 | [0207-course-schedule](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
