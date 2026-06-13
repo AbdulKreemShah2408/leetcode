@@ -79,6 +79,7 @@
 | [0322-coin-change](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0396-rotate-function) |
@@ -220,6 +221,7 @@
 | [0229-majority-element-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0355-design-twitter) |
@@ -372,6 +374,7 @@
 | [0268-missing-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0389-find-the-difference) |
@@ -771,6 +774,7 @@
 | [0191-number-of-1-bits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0427-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -887,6 +891,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0767-reorganize-string) |
@@ -1093,6 +1098,7 @@
 | [0239-sliding-window-maximum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0502-ipo) |
@@ -1153,10 +1159,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0912-sort-an-array) |
 ## Union-Find
