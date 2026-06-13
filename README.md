@@ -188,6 +188,7 @@
 | [3660-jump-game-ix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -575,6 +576,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3194-find-words-containing-character) |
 | [3811-reverse-degree-of-a-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -598,6 +600,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3811-reverse-degree-of-a-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
