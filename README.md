@@ -119,6 +119,7 @@
 | [0912-sort-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0941-valid-mountain-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0958-sort-array-by-parity-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -244,6 +245,7 @@
 | [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0846-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0953-verifying-an-alien-dictionary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0981-time-based-key-value-store](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -582,6 +584,7 @@
 | [0812-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0874-backspace-string-compare) |
+| [0953-verifying-an-alien-dictionary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
