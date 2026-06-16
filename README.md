@@ -109,6 +109,7 @@
 | [0735-asteroid-collision](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0846-hand-of-straights) |
@@ -241,6 +242,7 @@
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
@@ -579,6 +581,7 @@
 | [0649-dota2-senate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0752-open-the-lock](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
@@ -1067,6 +1070,7 @@
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
