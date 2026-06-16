@@ -105,6 +105,7 @@
 | [0682-baseball-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
 | [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
+| [0721-accounts-merge](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0739-daily-temperatures) |
@@ -242,6 +243,7 @@
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0706-design-hashmap) |
+| [0721-accounts-merge](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0767-reorganize-string) |
@@ -400,6 +402,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0853-car-fleet) |
@@ -581,6 +584,7 @@
 | [0649-dota2-senate](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0767-reorganize-string) |
@@ -1025,6 +1029,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -1069,6 +1074,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0752-open-the-lock) |
@@ -1220,6 +1226,7 @@
 | [0547-number-of-provinces](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1020-number-of-enclaves) |
