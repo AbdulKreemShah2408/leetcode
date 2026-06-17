@@ -84,6 +84,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -575,6 +576,7 @@
 | [0389-find-the-difference](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -1019,6 +1021,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0437-path-sum-iii) |
@@ -1068,6 +1071,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0463-island-perimeter) |
@@ -1225,6 +1229,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
@@ -1241,6 +1246,7 @@
 | [0210-course-schedule-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
@@ -1288,6 +1294,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Eulerian Circuit
