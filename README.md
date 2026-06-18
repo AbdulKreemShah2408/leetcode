@@ -417,6 +417,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1094-car-pooling) |
 | [1340-jump-game-v](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1340-jump-game-v) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1834-single-threaded-cpu](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -1246,6 +1247,7 @@
 | [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1020-number-of-enclaves) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -1266,6 +1268,7 @@
 | [0802-find-eventual-safe-states](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1462-course-schedule-iv) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
@@ -1316,6 +1319,7 @@
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Number Theory
 |  |
@@ -1351,4 +1355,8 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0473-matchsticks-to-square) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
