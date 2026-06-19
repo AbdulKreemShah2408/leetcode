@@ -176,6 +176,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -766,6 +767,7 @@
 | [1631-path-with-minimum-effort](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2596-check-knight-tour-configuration](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
@@ -1273,6 +1275,7 @@
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1791-find-center-of-star-graph) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1282,6 +1285,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1462-course-schedule-iv) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Trie
 |  |
 | ------- |
