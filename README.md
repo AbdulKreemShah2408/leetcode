@@ -152,6 +152,7 @@
 | [1635-number-of-good-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -841,6 +842,7 @@
 | [1094-car-pooling](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1094-car-pooling) |
 | [1603-running-sum-of-1d-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-find-the-highest-altitude](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1871-jump-game-vii) |
 | [2249-count-the-hidden-sequences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2249-count-the-hidden-sequences) |
