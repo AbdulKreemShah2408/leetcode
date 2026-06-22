@@ -314,6 +314,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1115-valid-boomerang) |
+| [1137-n-th-tribonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1500-count-largest-group) |
@@ -493,6 +494,7 @@
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1013-fibonacci-number) |
 | [1049-last-stone-weight-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1871-jump-game-vii) |
@@ -1236,6 +1238,7 @@
 | [0140-word-break-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Quickselect
 |  |
 | ------- |
