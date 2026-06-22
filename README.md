@@ -307,6 +307,7 @@
 | [0279-perfect-squares](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0396-rotate-function) |
@@ -477,6 +478,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0396-rotate-function) |
