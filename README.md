@@ -145,6 +145,7 @@
 | [1340-jump-game-v](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1345-jump-game-iv) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1406-stone-game-iii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1580-shuffle-the-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1580-shuffle-the-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -318,6 +319,7 @@
 | [1115-valid-boomerang](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1115-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -502,6 +504,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1406-stone-game-iii) |
 | [1871-jump-game-vii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1871-jump-game-vii) |
 | [2707-extra-characters-in-a-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -877,6 +880,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0292-nim-game) |
+| [1406-stone-game-iii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
