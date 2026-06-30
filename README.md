@@ -119,6 +119,7 @@
 | [0853-car-fleet](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0853-car-fleet) |
 | [0860-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -315,6 +316,7 @@
 | [0396-rotate-function](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
 | [0788-rotated-digits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1115-valid-boomerang) |
@@ -500,6 +502,7 @@
 | [0788-rotated-digits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1013-fibonacci-number) |
 | [1049-last-stone-weight-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -882,6 +885,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
