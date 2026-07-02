@@ -118,6 +118,7 @@
 | [0846-hand-of-straights](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0853-car-fleet) |
 | [0860-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-design-circular-queue) |
+| [0860-lemonade-change](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0881-boats-to-save-people) |
@@ -699,6 +700,7 @@
 | [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0881-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
