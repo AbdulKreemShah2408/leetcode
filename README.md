@@ -199,6 +199,7 @@
 | [3194-find-words-containing-character](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -798,6 +799,7 @@
 | [2392-build-a-matrix-with-conditions](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2596-check-knight-tour-configuration](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1144,6 +1146,7 @@
 | [1631-path-with-minimum-effort](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2596-check-knight-tour-configuration](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -1221,6 +1224,7 @@
 | [1834-single-threaded-cpu](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Union Find
 |  |
@@ -1316,6 +1320,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1358,6 +1363,7 @@
 | [0399-evaluate-division](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Eulerian Circuit
 |  |
 | ------- |
