@@ -120,6 +120,7 @@
 | [0853-car-fleet](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0853-car-fleet) |
 | [0860-design-circular-queue](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-design-circular-queue) |
 | [0860-lemonade-change](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0881-boats-to-save-people) |
@@ -678,6 +679,7 @@
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0874-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1094-car-pooling) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -808,6 +810,7 @@
 | [0695-max-area-of-island](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0867-transpose-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1631-path-with-minimum-effort) |
