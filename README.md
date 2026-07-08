@@ -841,6 +841,7 @@
 | [0473-matchsticks-to-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0473-matchsticks-to-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3133-minimum-array-end](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3133-minimum-array-end) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
 |  |
