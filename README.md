@@ -207,6 +207,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -299,6 +300,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -955,6 +957,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1334,6 +1337,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2709-greatest-common-divisor-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1358,6 +1362,7 @@
 | [2392-build-a-matrix-with-conditions](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
