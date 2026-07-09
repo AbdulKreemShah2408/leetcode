@@ -147,6 +147,7 @@
 | [1115-valid-boomerang](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1115-valid-boomerang) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1288-remove-covered-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1340-jump-game-v](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1340-jump-game-v) |
