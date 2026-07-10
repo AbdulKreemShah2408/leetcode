@@ -209,6 +209,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -408,6 +409,7 @@
 | [2540-minimum-common-value](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
@@ -465,6 +467,7 @@
 | [2502-sort-the-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2502-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
@@ -532,6 +535,7 @@
 | [1871-jump-game-vii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1871-jump-game-vii) |
 | [2707-extra-characters-in-a-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3660-jump-game-ix) |
@@ -734,6 +738,7 @@
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -845,6 +850,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3133-minimum-array-end](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3133-minimum-array-end) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
 |  |
@@ -959,6 +965,7 @@
 | [2540-minimum-common-value](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1364,6 +1371,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
