@@ -150,6 +150,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1345-jump-game-iv) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -280,6 +281,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -454,6 +456,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1340-jump-game-v) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
