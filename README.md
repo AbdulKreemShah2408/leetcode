@@ -209,6 +209,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -349,6 +350,7 @@
 | [2709-greatest-common-divisor-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -539,6 +541,7 @@
 | [1871-jump-game-vii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1871-jump-game-vii) |
 | [2707-extra-characters-in-a-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -1444,6 +1447,7 @@
 | ------- |
 | [2709-greatest-common-divisor-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Combinatorics
 |  |
