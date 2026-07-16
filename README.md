@@ -155,6 +155,7 @@
 | [1345-jump-game-iv](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1345-jump-game-iv) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1406-stone-game-iii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1406-stone-game-iii) |
+| [1408-string-matching-in-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1580-shuffle-the-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1580-shuffle-the-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -675,6 +676,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1405-longest-happy-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1405-longest-happy-string) |
+| [1408-string-matching-in-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1472-increasing-decreasing-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1666-make-the-string-great](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1666-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -1304,6 +1306,7 @@
 | [0572-subtree-of-another-tree](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0812-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1408-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
