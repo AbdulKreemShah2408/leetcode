@@ -210,6 +210,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -308,6 +309,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -352,6 +354,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2709-greatest-common-divisor-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -937,6 +940,7 @@
 | [1871-jump-game-vii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1871-jump-game-vii) |
 | [2249-count-the-hidden-sequences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2574-left-and-right-sum-differences](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Brainteaser
@@ -985,6 +989,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -1054,6 +1059,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2013-detect-squares](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2013-detect-squares) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Tree
 |  |
 | ------- |
@@ -1458,6 +1464,7 @@
 | ------- |
 | [2709-greatest-common-divisor-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1467,6 +1474,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Radix Sort
 |  |
 | ------- |
