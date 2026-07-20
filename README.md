@@ -146,6 +146,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1115-valid-boomerang](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1115-valid-boomerang) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1260-shift-2d-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1306-jump-game-iii) |
@@ -725,6 +726,7 @@
 | [0867-transpose-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0874-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1260-shift-2d-grid) |
 | [1701-average-waiting-time](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1701-average-waiting-time) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1914-cyclically-rotating-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -862,6 +864,7 @@
 | [0867-transpose-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
