@@ -280,6 +280,7 @@
 | [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0846-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -462,6 +463,7 @@
 | [0658-find-k-closest-elements](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0881-boats-to-save-people) |
@@ -674,6 +676,7 @@
 | [0763-partition-labels](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0782-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0868-push-dominoes) |
