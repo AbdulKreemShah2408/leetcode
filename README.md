@@ -364,6 +364,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2709-greatest-common-divisor-traversal](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -717,6 +718,7 @@
 | [2559-count-vowel-strings-in-ranges](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2678-number-of-senior-citizens](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2707-extra-characters-in-a-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -792,6 +794,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AbdulKreemShah2408/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
