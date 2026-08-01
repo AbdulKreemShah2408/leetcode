@@ -96,6 +96,7 @@
 | [0463-island-perimeter](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0502-ipo) |
@@ -347,6 +348,7 @@
 | [0371-sum-of-two-integers](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -547,6 +549,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0486-predict-the-winner](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0542-01-matrix) |
@@ -930,6 +933,7 @@
 | [0234-palindrome-linked-list](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
@@ -993,6 +997,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AbdulKreemShah2408/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AbdulKreemShah2408/leetcode/tree/master/1406-stone-game-iii) |
 ## Binary Search
